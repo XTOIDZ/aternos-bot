@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "NecroBot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "puthangroup3.aternos.me",
+    "port": 20983,
     "version": "",
     "try-creative": false
   },
